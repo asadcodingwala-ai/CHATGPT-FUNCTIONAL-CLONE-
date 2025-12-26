@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat Pro",
+  "description": "A high-performance, feature-rich AI chatbot powered by Google Gemini, featuring persistent chat history, markdown support, and streaming responses.",
+  "requestFramePermissions": []
+}
